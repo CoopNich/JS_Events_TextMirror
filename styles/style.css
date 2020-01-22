@@ -1,0 +1,16 @@
+#articleOne {
+    padding: 10px;
+     border: 1px solid lightseagreen;
+}
+
+#articleTwo {
+    padding: 10px;
+    border: 1px solid lightsalmon;
+}
+
+.articleDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+}
